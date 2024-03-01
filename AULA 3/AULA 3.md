@@ -18,3 +18,7 @@ Para detectar linhas podemos usar o laplaciano para encontrar os contornos e dep
 Derivadas amplificam o ruído.
 
 Para atenuar os ruídos, utilizar filtros passa baixo.
+
+Canny edge detection, detecta contornos com bastante clareza.
+
+Thresholding: é uma binarização da imagem.
