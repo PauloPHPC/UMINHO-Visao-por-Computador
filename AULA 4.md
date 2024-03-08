@@ -41,4 +41,11 @@ Tensor é uma variavel com n dimensões.
 
 Autograd calcula a derivada. É isso que torna estas plataformas tão poderosas.
 
+### Notebook 07 E 08
+
+Problemas com modelos de redes neuronais é o overfit ou underfit.
+
+> Underfit é quando o modelo não é treinado o suficiente para aquele dataset.
+
+> Overfit é quando o modelo aprende muito bem o dataset, mas ele não é bom para outros datasets, ou seja, não generaliza.
 
